@@ -26,4 +26,4 @@ Bienvenue dans ce dépôt dédié à l’apprentissage et aux projets **PHP**. C
 ## Installation
 1. Cloner le dépôt :
    ```bash
-   git clone https://github.com/<votre-utilisateur>/php-mastery.git
+   git clone https://github.com/karimMadani-cmd/PHP.git
